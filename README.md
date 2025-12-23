@@ -28,7 +28,7 @@ I enjoy learning new tools, working on projects, and growing as a developer.
 ---
 
 ##  Projects
-*(More coming soon 🚧)*
+*(More coming soon )*
 
 -  **spotify demo**  
   html css and js used 
